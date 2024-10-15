@@ -1,4 +1,4 @@
-def week4():
+def weekfour():
 list = [1,2,3,4,5]
 count = 0
 
@@ -7,4 +7,4 @@ count = 0
 
 print(count)
 
-week4()
+weekfour()
